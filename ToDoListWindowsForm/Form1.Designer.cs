@@ -91,7 +91,7 @@
             // AddTaskBTN
             // 
             AddTaskBTN.Cursor = Cursors.Hand;
-            AddTaskBTN.Location = new Point(65, 272);
+            AddTaskBTN.Location = new Point(72, 273);
             AddTaskBTN.Name = "AddTaskBTN";
             AddTaskBTN.Size = new Size(132, 23);
             AddTaskBTN.TabIndex = 7;

@@ -31,6 +31,7 @@ namespace ToDoListWindowsForm
                 TaskListR.AppendText("------------\n" + eeee + "\n------------ \n");
 
             }
+            // Resets the input boxes
             TaskNameTB.Text = "";
             DescriptionTB.Text = "";
             TodobyTB.Text = "";
